@@ -31,5 +31,5 @@ This project implements and compares two association rule mining algorithms—Br
 - Rule: {Socks} → {Running Shoe} (Confidence: 0.85, Support: 0.55)
 - Comparison of brute force vs. apriori execution time
 
-## 🔗 GitHub
-https://github.com/DathwikK/association_rule_mining
+## Author
+Dathwik Kollikonda
